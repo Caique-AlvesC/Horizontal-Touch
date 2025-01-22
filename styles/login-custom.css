@@ -1,0 +1,9 @@
+/* Remove o nome do mundo */
+h1 {
+    display: none !important;
+  }
+  
+  /* Remove o ícone de logo */
+  #logo {
+    display: none !important;
+  }

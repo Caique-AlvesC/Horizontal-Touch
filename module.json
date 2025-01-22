@@ -1,0 +1,15 @@
+{
+    "name": "custom-login",
+    "title": "Custom Login and Theme",
+    "description": "Personaliza a tela de login e modifica o tema Sci-Fi.",
+    "version": "1.0.0",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12.331",
+    "author": "Caique Alves Correia da Silva",
+    "styles": [
+      "styles/login-custom.css",
+      "styles/theme-scifi-custom.css"
+    ],
+    "manifest": "URL_DO_ARQUIVO_MODULE.JSON",
+    "download": "URL_DO_ARQUIVO_COMPACTADO"
+  }
