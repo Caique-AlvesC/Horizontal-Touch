@@ -10,6 +10,6 @@
       "styles/login-custom.css",
       "styles/theme-scifi-custom.css"
     ],
-    "manifest": "URL_DO_ARQUIVO_MODULE.JSON",
-    "download": "URL_DO_ARQUIVO_COMPACTADO"
+    "manifest": "https://raw.githubusercontent.com/Caique-AlvesC/Login-Modulo/main/module.json",
+    "download": "https://github.com/Caique-AlvesC/Login-Modulo/archive/refs/heads/main.zip"
   }
