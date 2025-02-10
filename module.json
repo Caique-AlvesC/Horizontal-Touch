@@ -1,13 +1,21 @@
 {
-    "name": "custom-sheet-fix",
-    "title": "Custom Sheet Fix",
-    "description": "Tira limite minimo de tamanho de ficha pra mobile",
-    "version": "1.0.1",
-    "minimumCoreVersion": "12",
-    "compatibleCoreVersion": "12.331",
-    "author": "Caique Alves Correia da Silva",
-    "esmodules": ["fix-sheet.js"],
-    "styles": ["custom-sheet-fix.css"],
-    "manifest": "https://raw.githubusercontent.com/Caique-AlvesC/Login-Modulo/main/module.json",
-    "download": "https://github.com/Caique-AlvesC/Login-Modulo/archive/refs/heads/main.zip"
-  }
+  "id": "custom-sheet-fix",
+  "title": "Custom Sheet Fix",
+  "description": "Tira limite mínimo de tamanho de ficha para mobile",
+  "version": "1.0.1",
+  "authors": [
+      {
+          "name": "Caique Alves Correia da Silva",
+          "url": "https://github.com/Caique-AlvesC"
+      }
+  ],
+  "compatibility": {
+      "minimum": "12",
+      "verified": "12.331",
+      "maximum": "12.999"
+  },
+  "esmodules": ["fix-sheet.js"],
+  "styles": ["custom-sheet-fix.css"],
+  "manifest": "https://raw.githubusercontent.com/Caique-AlvesC/Login-Modulo/main/module.json",
+  "download": "https://github.com/Caique-AlvesC/Login-Modulo/archive/refs/heads/main.zip"
+}
