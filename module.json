@@ -2,7 +2,7 @@
     "name": "Horizontal-touch-custom",
     "title": "Horizontal-touch-custom",
     "description": "Permite movimento horizontal na ficha via Sheet Only.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "12",
     "compatibleCoreVersion": "12.331",
     "author": "Caique Alves Correia da Silva",
