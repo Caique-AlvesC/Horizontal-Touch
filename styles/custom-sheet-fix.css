@@ -1,0 +1,18 @@
+.window-app.sheet {
+    width: 95vw !important; /* Usa 95% da largura da tela */
+    height: 90vh !important; /* Usa 90% da altura da tela */
+    min-width: 320px !important; /* Evita que a ficha fique muito grande */
+    min-height: 400px !important; /* Mantém um tamanho razoável */
+    max-width: 100vw !important; /* Nunca maior que a largura total */
+    max-height: 100vh !important; /* Nunca maior que a altura total */
+    overflow: auto !important; /* Permite rolagem se necessário */
+}
+
+.wod-sheet:not(.minimized),
+.wod-item:not(.minimized),
+.wod-dialog:not(.minimized) {
+    min-width: 320px !important;
+    min-height: 400px !important;
+    max-width: 95vw !important;
+    max-height: 90vh !important;
+}
