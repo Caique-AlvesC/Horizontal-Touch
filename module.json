@@ -1,14 +1,13 @@
 {
-    "name": "custom-login",
-    "title": "Custom Login and Theme",
-    "description": "Personaliza a tela de login e modifica o tema Sci-Fi.",
+    "name": "Horizontal-touch-custom",
+    "title": "Horizontal-touch-custom",
+    "description": "Permite movimento horizontal na ficha via Sheet Only.",
     "version": "1.0.0",
     "minimumCoreVersion": "12",
     "compatibleCoreVersion": "12.331",
     "author": "Caique Alves Correia da Silva",
     "styles": [
-      "styles/login-custom.css",
-      "styles/theme-scifi-custom.css"
+      "styles/Horizontal-touch-custom.js"
     ],
     "manifest": "https://raw.githubusercontent.com/Caique-AlvesC/Login-Modulo/main/module.json",
     "download": "https://github.com/Caique-AlvesC/Login-Modulo/archive/refs/heads/main.zip"
